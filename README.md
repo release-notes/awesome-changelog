@@ -10,6 +10,7 @@
 * [Github releases](https://help.github.com/articles/creating-releases)
 * [GNU Style](https://www.gnu.org/prep/standards/html_node/Style-of-Change-Logs.html)
 * [Keep a changelog](keepachangelog.com)
+* [Release notes yml spec](https://github.com/release-notes/release-notes-spec)
 
 ---
 
