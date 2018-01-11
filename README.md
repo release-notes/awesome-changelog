@@ -1,4 +1,4 @@
-# Awesome Changelog [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Changelog [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of awesome CHANGELOG.md's and tools around release notes management.
 
 ---
