@@ -7,7 +7,7 @@
 ## Formats
 
 * [Conventional changelog](https://github.com/conventional-changelog/conventional-changelog)
-* [Github releases](https://help.github.com/en/articles/creating-releases)
+* [Github releases](https://help.github.com/en/github/administering-a-repository/creating-releases)
 * [GNU Style](https://www.gnu.org/prep/standards/html_node/Style-of-Change-Logs.html)
 * [Keep a changelog](keepachangelog.com)
 * [Release notes yml spec](https://github.com/release-notes/release-notes-spec)
